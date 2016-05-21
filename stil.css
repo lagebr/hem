@@ -1,11 +1,23 @@
 body {
-  color: blue;
+  color: black;
   text-align: center;
+  background-color: #ffb3cc;
+  font: 13px arial, sans-serif;
 }
 
-@font-face {
-  font-family: "helvetica";
-  src: url("2.eot?") format("eot"),
-  url("2.woff") format("woff"),
-  url("2.ttf") format("truetype");
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover{
+    background-color: white;
+}
+
+a:active {
+    background-color: red;
 }
