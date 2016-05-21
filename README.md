@@ -1,2 +1,2 @@
-# gh-page
-My gh-page.
+# Page
+Simply a repo for trying out Github Pages.
