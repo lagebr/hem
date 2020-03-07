@@ -1,2 +1,2 @@
 # site
-A website with blog
+A website with a blog
